@@ -2,11 +2,6 @@
 
 prettyCron is a simple JavaScript deuglifier for cron schedules: it prints out a human-readable interpretation of when the schedule will run.
 
-## For examples...
-
-... [check out the project home page](http://azza-bazoo.github.io/prettycron/).
-
-
 ## Installation - browser
 
 Include prettycron.js after adding [moment.js](http://momentjs.com/) and [later.js](https://github.com/bunkat/later).
